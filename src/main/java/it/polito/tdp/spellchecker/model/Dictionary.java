@@ -22,7 +22,7 @@ public class Dictionary {
 			
 			while((word = br.readLine()) != null) {
 				dizionario.add(word);
-				System.out.println(word);
+				//System.out.println(word);
 			}
 			
 			br.close();
